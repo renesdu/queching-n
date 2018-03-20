@@ -1,0 +1,503 @@
+body{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	padding: 50px;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    height: auto;
+    width: auto;
+    overflow: hidden;
+	background-color: transparent;
+}
+
+.textofot{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	display: inline-block;
+	font-size: 20px;
+	padding-right: 100px;
+	font-weight: 500;
+	background-color: transparent;
+}
+
+.texto{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	padding-right: 100px;
+	font-weight: 400;
+	background-color: transparent;
+}
+
+.textocolores{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	padding-right: 100px;
+	font-weight: bold;
+	background-color: transparent;
+}
+
+.ndtexto1{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	padding-right: 100px;
+	font-weight: 300;
+	background-color: transparent;
+}
+
+.ndtexto2{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	padding-right: 100px;
+	font-weight: 400;
+	background-color: transparent;
+}
+
+.ndtexto3{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	padding-right: 100px;
+	font-weight: 500;
+	background-color: transparent;
+}
+
+.ndtexto4{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	padding-right: 100px;
+	font-weight: bold;
+	background-color: transparent;
+}
+
+.textobold{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: 300px;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: transparent;
+}
+
+.textobold2{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: 500;
+	color: white;
+	border-radius: 5px;
+	padding: 4px;
+	background-color: #FF0C00;
+}
+
+.textobold3{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: 500;
+	color: white;
+	border-radius: 5px;
+	padding: 4px;
+	background-color: #6300FF;
+}
+
+.textobold4{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: 500;
+	color: white;
+	border-radius: 5px;
+	padding: 4px;
+	background-color: #92FF6E;
+}
+
+.textobold5{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: 500;
+	color: white;
+	border-radius: 5px;
+	padding: 4px;
+	background-color: #FF00F3;
+}
+
+.textobold6{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: 500;
+	color: white;
+	border-radius: 5px;
+	padding: 4px;
+	background-color: #FF9700;
+}
+
+.textoboxnueva{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: 250px;
+	font-size: 20px;
+	margin-right: 25px;
+	vertical-align: top;
+	margin-bottom: 25px;
+	display: inline-block;
+	font-weight: 400;
+	background-color: transparent;
+}
+
+.colores{
+	background-color: #FF0C00;
+	width: 100px;
+	height: 100px;	
+	display: inline-block;
+}
+
+.colores2{
+	background-color: #6300FF;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}
+
+.colores3{
+	background-color: #92FF6E;
+	width: 100px;
+	height: 100px;	
+	display: inline-block;
+}
+
+.colores4{
+	background-color: #FF00F3;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}
+
+.colores5{
+	background-color: #FF9700;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}
+
+.colores6{
+	background-color: #0027F5;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}
+
+.linea{
+	width: 100%;
+	height: 4px;
+	background-color: black;
+}
+
+.respuesta{
+	color: blue;
+}
+
+.titulo{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	padding-right: 100px;
+	font-weight: bold;
+	font-weight: bold;
+}
+
+.texto2{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	color: white;
+	background-color: transparent;
+}
+
+.titulo2{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 30px;
+	color: white;
+	font-weight: bold;
+}
+
+.divinicio{
+	margin-top: 80px;
+	z-index: 999;
+}
+
+.titulo3{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 50px;
+	margin-right: 50px;
+	font-weight: bold;
+}
+
+.logo{
+    position: fixed;
+    height: 50px;
+    width: 50px;
+	background-color: black;
+	z-index: 999;
+}
+
+.logo:hover{
+	position: fixed;
+    height: 50px;
+    width: 50px;
+	background-color: blue;
+	border-radius: 1000px;
+	z-index: 1;
+}
+
+.logo2{
+    height: 200px;
+    width: 200px;
+	display: inline-block;
+	background-color: black;
+	z-index: 999;
+}
+
+.logo2:hover{
+    height: 200px;
+    width: 200px;
+	cursor: pointer;
+	background-color: blue;
+	border-radius: 1000px;
+	z-index: 1;
+}
+
+.divuno{
+	background-color: transparent;
+	margin-top: 80px;
+}
+
+.divdos{
+	background-color: transparent;
+	padding-left: 200px;
+}
+
+.ulmoda{
+	text-align: left;
+	left: 0px;
+	width: 150px;
+	margin-top: 150px;
+	padding-left: 60px;
+	position: absolute;
+}
+
+.item2{
+    color: black;
+	text-decoration: none;
+    font-size: 20px;
+	font-weight: 400;
+}
+
+.item2:hover{
+	text-decoration: underline;
+	color: blue;
+}
+
+.uluno{
+	text-align: right;
+	right: 0px;
+	width: auto;
+	margin-top: 0px;
+	padding-right: 60px;
+	position: fixed;
+}
+
+.uldosdos{
+	padding-left: 20px;
+	border-left: 4px solid black;
+}
+
+.bullet{
+    list-style-type: none;
+}
+
+.item{
+    color: black;
+	text-decoration: none;
+    font-size: 20px;
+	font-weight: 500;
+}
+
+.item:hover{
+	text-decoration: underline;
+	color: blue;
+}
+
+.itemselected{
+	color: black;
+    font-size: 20px;
+	font-weight: 500;
+	text-decoration: underline;
+}
+
+.box{
+	width: 200px;
+	display: inline-block;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	height: 200px;
+	background-color: black;
+	padding: 25px;
+	border-radius: 25px;
+}
+
+.boxes{
+	margin-top: 100px;
+}
+
+.botontexto4{
+	color: black;
+	font-weight: bold;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.botontexto{
+	color: black;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.botontexto:hover{
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.botontextoselected{
+	color: black;
+	display: inline-block;
+	text-decoration: underline;
+}
+
+.botontextoselected:hover{
+	color: blue;
+	display: inline-block;
+	text-decoration: underline;
+}
+
+.botontexto2{
+	color: black;
+	display: inline-block;
+	margin-left: -60px;
+	text-decoration: none;
+}
+
+.botontexto2:hover{
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.botontexto3{
+	color: black;
+	display: inline-block;
+	margin-left: 40px;
+	text-decoration: none;
+}
+
+.botontexto3:hover{
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.botontextoselected{
+	color: black;
+	text-decoration: underline;
+}
+
+#myDIV{
+	color: black;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	padding-right: 100px;
+	font-weight: 400;
+	background-color: transparent;
+	margin-top: -45px;
+}
+
+#more-button{
+	border-style:none;
+	color: black;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	padding-right: 100px;
+	font-weight: 400;
+	background-color: transparent;
+}
+
+#grow{
+	margin-top: -40px;
+}
+
+#grow input:checked{
+	color:red;
+	height: 100px;
+}
+
+#more-button:hover{
+	color:black;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#grow {
+    -moz-transition: height .5s;
+    -ms-transition: height .5s;
+    -o-transition: height .5s;
+    -webkit-transition: height .5s;
+    transition: height .5s;
+    height: 0;
+    overflow: hidden;
+}
+
+.textobox{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	width: 70%;
+	margin-top: 50px;
+	padding: 25px;
+	color: white;
+	background-color: black;
+}
+
+.portadasdiv{
+	
+}
+
+.portadaimg{
+	width: 300px;
+	height: auto;
+	display: inline-block;
+	margin-right: 50px;
+	max-width: 100%;
+	margin-bottom: 50px;
+}
+
+.portadaimg2{
+	height: auto;
+	width: 450px;
+	display: inline-block;
+	margin-right: 50px;
+	max-width: 100%;
+	margin-bottom: 50px;
+}
+
+.portadaimg3{
+	height: auto;
+	width: 100%;
+	padding: none;
+	display: inline-block;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+
+.imgarte{
+	max-width: 100%;
+	width: 1000px;
+}
