@@ -14,13 +14,13 @@ footer {
     height: auto;
     width: auto;
     overflow: hidden;
-	background-color: transparent;
+		background-color: transparent;
 }
 
 .textofot{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	display: inline-block;
-	font-size: 20px;
+	font-size: 18px;
 	padding-right: 100px;
 	font-weight: 500;
 	background-color: transparent;
@@ -28,15 +28,15 @@ footer {
 
 .texto{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 20px;
-	padding-right: 100px;
+	font-size: 18px;
 	font-weight: 400;
+	padding-right: 50px;
 	background-color: transparent;
 }
 
 .textocolores{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 	padding-right: 100px;
 	font-weight: bold;
 	background-color: transparent;
@@ -44,7 +44,7 @@ footer {
 
 .ndtexto1{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 	padding-right: 100px;
 	font-weight: 300;
 	background-color: transparent;
@@ -52,7 +52,7 @@ footer {
 
 .ndtexto2{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 	padding-right: 100px;
 	font-weight: 400;
 	background-color: transparent;
@@ -60,7 +60,7 @@ footer {
 
 .ndtexto3{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 	padding-right: 100px;
 	font-weight: 500;
 	background-color: transparent;
@@ -68,7 +68,7 @@ footer {
 
 .ndtexto4{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 	padding-right: 100px;
 	font-weight: bold;
 	background-color: transparent;
@@ -77,14 +77,15 @@ footer {
 .textobold{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	width: 300px;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: bold;
 	background-color: transparent;
 }
 
 .textobold2{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 14px;
+	width: 250px;
+	font-size: 13px;
 	font-weight: 500;
 	color: white;
 	border-radius: 5px;
@@ -94,7 +95,7 @@ footer {
 
 .textobold3{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 14px;
+	font-size: 13px;
 	font-weight: 500;
 	color: white;
 	border-radius: 5px;
@@ -104,7 +105,7 @@ footer {
 
 .textobold4{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 14px;
+	font-size: 13px;
 	font-weight: 500;
 	color: white;
 	border-radius: 5px;
@@ -114,7 +115,7 @@ footer {
 
 .textobold5{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 14px;
+	font-size: 13px;
 	font-weight: 500;
 	color: white;
 	border-radius: 5px;
@@ -124,7 +125,7 @@ footer {
 
 .textobold6{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 14px;
+	font-size: 13px;
 	font-weight: 500;
 	color: white;
 	border-radius: 5px;
@@ -132,22 +133,64 @@ footer {
 	background-color: #FF9700;
 }
 
+.textobold7{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	font-weight: 500;
+	color: white;
+	border-radius: 5px;
+	padding: 4px;
+	background-color: black;
+}
+
+.textobold2:hover{
+	opacity: .5;
+}
+
 .textoboxnueva{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	width: 250px;
-	font-size: 20px;
-	margin-right: 25px;
-	vertical-align: top;
-	margin-bottom: 25px;
-	display: inline-block;
+	font-size: 18px;
 	font-weight: 400;
 	background-color: transparent;
+}
+
+.tags{
+	text-decoration: none;
+}
+
+.tags:hover{
+	opacity: .5;
+}
+
+.imgadbanner{
+	width: 800px;
+	height: auto;
+	max-width: 100%;
+	margin-top: -13px;
+}
+
+.boxtexto{
+	display: inline-block;
+	margin-right: 40px;
+	vertical-align: top;
+}
+
+.frase{
+	border-left: 3px solid black;
+	padding-left: 15px;
+}
+
+.imgboxnueva{
+	width: 250px;
+	height: auto;
+	margin-top: 5px;
 }
 
 .colores{
 	background-color: #FF0C00;
 	width: 100px;
-	height: 100px;	
+	height: 100px;
 	display: inline-block;
 }
 
@@ -161,7 +204,7 @@ footer {
 .colores3{
 	background-color: #92FF6E;
 	width: 100px;
-	height: 100px;	
+	height: 100px;
 	display: inline-block;
 }
 
@@ -198,7 +241,7 @@ footer {
 
 .titulo{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 	padding-right: 100px;
 	font-weight: bold;
 	font-weight: bold;
@@ -248,6 +291,20 @@ footer {
 	z-index: 1;
 }
 
+.logo3{
+    position: fixed;
+    height: 50px;
+    width: auto;
+		z-index: 999;
+}
+
+.logo3:hover{
+	position: fixed;
+    height: 50px;
+    width: auto;
+	z-index: 1;
+}
+
 .logo2{
     height: 200px;
     width: 200px;
@@ -259,15 +316,15 @@ footer {
 .logo2:hover{
     height: 200px;
     width: 200px;
-	cursor: pointer;
-	background-color: blue;
-	border-radius: 1000px;
-	z-index: 1;
+		cursor: pointer;
+		background-color: blue;
+		border-radius: 1000px;
+		z-index: 1;
 }
 
 .divuno{
-	background-color: transparent;
-	margin-top: 80px;
+		background-color: transparent;
+		margin-top: 80px;
 }
 
 .divdos{
@@ -287,7 +344,7 @@ footer {
 .item2{
     color: black;
 	text-decoration: none;
-    font-size: 20px;
+    font-size: 18px;
 	font-weight: 400;
 }
 
@@ -317,7 +374,7 @@ footer {
 .item{
     color: black;
 	text-decoration: none;
-    font-size: 20px;
+    font-size: 18px;
 	font-weight: 500;
 }
 
@@ -328,7 +385,7 @@ footer {
 
 .itemselected{
 	color: black;
-    font-size: 20px;
+    font-size: 18px;
 	font-weight: 500;
 	text-decoration: underline;
 }
@@ -359,6 +416,7 @@ footer {
 	color: black;
 	display: inline-block;
 	text-decoration: none;
+	font-size: 18px;
 }
 
 .botontexto:hover{
@@ -413,7 +471,7 @@ footer {
 #myDIV{
 	color: black;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 	padding-right: 100px;
 	font-weight: 400;
 	background-color: transparent;
@@ -424,7 +482,7 @@ footer {
 	border-style:none;
 	color: black;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 	padding-right: 100px;
 	font-weight: 400;
 	background-color: transparent;
@@ -457,7 +515,7 @@ footer {
 
 .textobox{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 400;
 	width: 70%;
 	margin-top: 50px;
@@ -467,7 +525,7 @@ footer {
 }
 
 .portadasdiv{
-	
+
 }
 
 .portadaimg{
@@ -488,6 +546,10 @@ footer {
 	margin-bottom: 50px;
 }
 
+.portadaimg2:hover{
+	cursor: zoom-in;
+}
+
 .portadaimg3{
 	height: auto;
 	width: 100%;
@@ -495,6 +557,10 @@ footer {
 	display: inline-block;
 	margin-right: 50px;
 	margin-bottom: 50px;
+}
+
+.portadaimg3:hover{
+	cursor: zoom-out;
 }
 
 .imgarte{
